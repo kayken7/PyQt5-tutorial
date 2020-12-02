@@ -11,3 +11,11 @@
  2. Say Hello World
  
  3. classes : QLabel, QPushButton, QVBoxLayout
+
+
+
+* 튜토리얼
+
+https://digiconfactory.tistory.com/381
+
+https://digiconfactory.tistory.com/382
