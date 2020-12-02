@@ -1,1 +1,9 @@
-C Algorithm files
+[C Algorithm files]
+
+- Data Structure
+
+Linked List
+
+BinaryTree
+
+Stack
