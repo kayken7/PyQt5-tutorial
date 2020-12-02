@@ -9,3 +9,5 @@
  1. Openning a window
  
  2. Say Hello World
+ 
+ 3. classes : QLabel, QPushButton, QVBoxLayout
